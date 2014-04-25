@@ -1,0 +1,699 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fac",
+				"FacebookService"
+			],
+			[
+				"brand",
+				"brand-info"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"face",
+				"FacebookProvider"
+			],
+			[
+				"se",
+				"searchTerm"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-radius-base"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"l",
+				"loggedIn  (variable)"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"clas",
+				"class=  (attribute)"
+			],
+			[
+				"user",
+				"UserService"
+			],
+			[
+				"api",
+				"apiPath"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"Json",
+				"json_decode"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"col",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"SFTP: Monitor File",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"r",
+				"RSync: Synchronize the whole tree"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"SFTP Monitor File",
+			"SFTP: Monitor File",
+			"SFTP: Monitor File (Upload on External Save)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/iancarpenter/Project/maltese/server/utils/facebook.js",
+		"/Users/iancarpenter/Project/maltese/server/views/index.ejs",
+		"/Users/iancarpenter/Project/maltese/server/public/img/logo.svg",
+		"/Users/iancarpenter/Project/maltese/server/public/bower_components/bootstrap/less/variables.less",
+		"/Users/iancarpenter/Project/maltese/js/angular/maltese/partials/contact.html",
+		"/Users/iancarpenter/Project/maltese/server/routes/api.js",
+		"/Users/iancarpenter/Project/maltese/server/routes/users.js",
+		"/Users/iancarpenter/Project/maltese/server/public/_compiled/css/vendor.css",
+		"/Users/iancarpenter/Project/maltese/maltese.sublime-project",
+		"/Users/iancarpenter/Project/maltese/tools/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/mozilla-ast.js",
+		"/Users/iancarpenter/Project/maltese/tools/node_modules/grunt/node_modules/iconv-lite/test/main-test.js",
+		"/Users/iancarpenter/Project/maltese/server/public/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg",
+		"/Users/iancarpenter/Project/maltese/tools/Gruntfile.js",
+		"/Users/iancarpenter/Project/maltese/server/.foreverignore",
+		"/Users/iancarpenter/Project/maltese/vagrant/.vagrant/machines/default/virtualbox/action_provision",
+		"/private/etc/hosts",
+		"/Users/iancarpenter/Project/maltese/vagrant/Vagrantfile",
+		"/Users/iancarpenter/Project/maltese/vagrant/manifests/base.pp",
+		"/Users/iancarpenter/Project/maltese/vagrant/devlocal/deploy.sh",
+		"/Users/iancarpenter/Project/maltese/server/public/bower_components/jquery/src/var/hasOwn.js",
+		"/Users/iancarpenter/Project/maltese/vagrant/devlocal/local.xml",
+		"/Users/iancarpenter/Project/maltese/server/routes/events.js",
+		"/Users/iancarpenter/Project/maltese/server/bin/www",
+		"/Users/iancarpenter/Project/maltese/server/package.json",
+		"/Users/iancarpenter/Project/maltese/server/public/_compiled/js/maltese.js",
+		"/Users/iancarpenter/Project/maltese/js/angular/maltese/services/facebook.js",
+		"/Users/iancarpenter/Project/maltese/js/angular/maltese/partials/index.html",
+		"/Users/iancarpenter/Project/maltese/tools/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/import-no-semi.less",
+		"/Users/iancarpenter/Project/maltese/server/node_modules/express/lib/view.js",
+		"/Users/iancarpenter/Project/maltese/server/npm-debug.log",
+		"/Users/iancarpenter/Project/metrodigi/js/bower.json",
+		"/Users/iancarpenter/Project/metrodigi/less/metroDigi.less",
+		"/Users/iancarpenter/Project/maltese/tools/node_modules/grunt/node_modules/hooker/lib/hooker.js",
+		"/Users/iancarpenter/Project/maltese/server/node_modules/body-parser/HISTORY.md",
+		"/Users/iancarpenter/Project/maltese/server/app.js",
+		"/Users/iancarpenter/Project/metrodigi/index.html",
+		"/Users/iancarpenter/Project/metrodigi/js/angular/metroDigi/filters/duration.js",
+		"/Users/iancarpenter/Project/metrodigi/js/angular/metroDigi/services/youtube.js",
+		"/Users/iancarpenter/Project/metrodigi/js/angular/metroDigi/module.js",
+		"/Users/iancarpenter/Project/metrodigi/js/angular/metroDigi/controllers/metrodigi-main.js",
+		"/Users/iancarpenter/Project/metrodigi/metro.sublime-project",
+		"/Users/iancarpenter/Project/maltese/server/public/_compiled/css/main.css",
+		"/Users/iancarpenter/Project/maltese/server/public/bower.json",
+		"/Users/iancarpenter/Project/maltese/server/views/error.jade",
+		"/Users/iancarpenter/Project/maltese/js/angular/maltese/filters/duration.js",
+		"/Users/iancarpenter/Project/maltese/js/angular/maltese/services/youtube.js",
+		"/Users/iancarpenter/Project/maltese/js/bower.json",
+		"/Users/iancarpenter/Project/maltese/server/maltese.js",
+		"/Users/iancarpenter/Project/metrodigi/_compiled/js/metroDigi.templates.js",
+		"/Users/iancarpenter/Project/metrodigi/_compiled/js/metroDigi.js",
+		"/Users/iancarpenter/Project/metrodigi/_compiled/css/vendor.css",
+		"/Users/iancarpenter/Project/metrodigi/js/bower_components/bootstrap/less/variables.less",
+		"/Users/iancarpenter/Project/metrodigi/js/angular/metroDigi/services/moment.js",
+		"/Users/iancarpenter/Project/metrodigi/js/angular/metroDigi/filters",
+		"/Users/iancarpenter/Downloads/moment.js",
+		"/Users/iancarpenter/Project/metrodigi/js/angular/metroDigi/controllers/metrodigi-search.js",
+		"/Users/iancarpenter/Project/metrodigi/js/angular/metroDigi/directives/search.js",
+		"/Users/iancarpenter/Project/metrodigi/js/angular/metroDigi/partials/search.html",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/code/local/Finaonation/finaofrontend/tools/node_modules/.bin/r.js",
+		"/Users/iancarpenter/Project/metrodigi/tools/Gruntfile.js",
+		"/Users/iancarpenter/Project/finao/Magento/magento/lib/Zend/Locale/Data/gu.xml",
+		"/Users/iancarpenter/Project/imgfun/bitToSvg/include/python3.4m/namespaceobject.h",
+		"/Users/iancarpenter/Project/finao/Magento/magento/lib/Zend/Locale/Data/ig_NG.xml",
+		"/Users/iancarpenter/Project/metrodigi/js/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg",
+		"/Users/iancarpenter/Project/finao/Magento/vagrant/modules/stdlib/lib/puppet/parser/functions/validate_array.rb",
+		"/Users/iancarpenter/Project/finao/Magento/vagrant/Vagrantfile",
+		"/Users/iancarpenter/Project/metrodigi/tools/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/import-no-semi.less",
+		"/Users/iancarpenter/Project/finao/Magento/magento/install.php",
+		"/Users/iancarpenter/Project/metrodigi/_compiled/metroDigi.js",
+		"/Users/iancarpenter/Project/metrodigi/_compiled/controllers.js",
+		"/Users/iancarpenter/Project/metrodigi/tools/angular-grunt.js",
+		"/Users/iancarpenter/Project/metrodigi/directives",
+		"/Users/iancarpenter/Project/metrodigi/js/metrodigi.js",
+		"/Users/iancarpenter/Project/metrodigi/js/angular/directives",
+		"/Users/iancarpenter/Project/finao/Magento/magento/lib/Zend/Locale/Data/sa_IN.xml",
+		"/Users/iancarpenter/Project/finao/Magento/magento/sftp-config.json",
+		"/Users/iancarpenter/Project/finao/Magento/magento/lib/Zend/Oauth/Signature/SignatureAbstract.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/locale/en_US/template/email/sitemap_generate_warning.html",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/code/local/Finaonation/finaofrontend/less/finao_variables.less",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/code/local/Finaonation/finaofrontend/tools/node_modules/grunt-contrib-less/docs/less-options.md",
+		"/Users/iancarpenter/Project/finao/Magento/magento/LICENSE.html",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/code/local/Finaonation/Social/controllers/IndexController.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/code/local/Finao/Customer/Model/Observer.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/design/frontend/metrostore/default/layout/local.xml",
+		"/Users/iancarpenter/Project/finao/Magento/magento/downloader/lib/Mage/Connect/Repository/Local.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/lib/Zend/Soap/Client/Local.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/lib/Mage/Connect/Repository/Local.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/etc/local.xml.template",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/etc/local.xml.additional",
+		"/Users/iancarpenter/Project/finao/Magento/vagrant/files/devlocal/local.xml",
+		"/Users/iancarpenter/Project/finao/Magento/magento/errors/local.xml.sample",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/code/local/Finaonation/finaofrontend/js/bower_components/angular/angular.js",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/code/local/Finaonation/finaofrontend/js/bower.json",
+		"/Users/iancarpenter/Library/Application Support/Sublime Text 3/Packages/SFTP/Default (OSX).sublime-keymap",
+		"/Users/iancarpenter/Project/finao/Magento/magento/lib/Zend/Pdf/Action/GoToR.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/get.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/etc/modules/Finao_Adminhtml.xml",
+		"/Users/iancarpenter/Project/finao/Magento/magento/lib/Zend/Locale/Data/fa_IR.xml",
+		"/Users/iancarpenter/Project/finao/Magento/magento/downloader/template/footer.phtml",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/code/local/Finaonation/finaofrontend/js/bower_components/bootstrap/less/variables.less",
+		"/Users/iancarpenter/Project/finao/Magento/magento/lib/Zend/Soap/AutoDiscover.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/lib/Zend/Tool/Project/Context/Zf/LayoutsDirectory.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/code/local/Finaonation/finaofrontend/tools/gruntfile.js",
+		"/Users/iancarpenter/Project/finao/Magento/magento/skin/frontend/social/default/images/logo.svg",
+		"/Users/iancarpenter/Project/finao/Magento/magento/skin/frontend/social/default/images/logo-black.svg",
+		"/Users/iancarpenter/Project/finao/Magento/magento/lib/Zend/Gdata/YouTube/Extension/LastName.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/LICENSE_AFL.txt",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/etc/modules/Finao_RestApi.xml",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/etc/modules/Finao_Util.xml",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/etc/modules/Finao_Tagnote.xml",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/etc/modules/Finao_Sales.xml",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/etc/modules/Finao_Dubow.xml",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/etc/modules/Finao_Customer.xml",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/etc/modules/Finao_Catalog.xml",
+		"/Users/iancarpenter/Project/finao/Magento/magento/lib/Zend/Feed/Reader/FeedInterface.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/code/core/Mage/Core/Model/Source/Email/Variables.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/code/core/Mage/Adminhtml/controllers/System/VariableController.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/code/core/Mage/Core/Model/Resource/Variable.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/code/core/Mage/Core/Model/Mysql4/Variable.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/code/core/Mage/Adminhtml/Block/System/Variable.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/code/core/Mage/Core/Model/Variable.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/lib/Varien/Filter/Template/Tokenizer/Variable.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/js/mage/adminhtml/variables.js",
+		"/Users/iancarpenter/Project/finao/Magento/magento/app/etc/varnishcache.xml",
+		"/Users/iancarpenter/Project/finao/Magento/magento/js/blank.html",
+		"/Users/iancarpenter/Project/finao/Magento/magento/downloader/skin/boxes.css",
+		"/Users/iancarpenter/Project/finao/Magento/magento/lib/Zend/Filter/Boolean.php",
+		"/Users/iancarpenter/Project/finao/Magento/magento/lib/Zend/Application/Bootstrap/Bootstrap.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/iancarpenter/Project/finao/Magento/magento",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"2px solid",
+			"@brand-info, 50%",
+			"6px solid @brand-info",
+			"10px solid @brand-info",
+			"primary",
+			"5",
+			"5px",
+			"6",
+			"tile_id",
+			"tiles",
+			"EventsService",
+			"4",
+			"6",
+			"color: @brand-info;",
+			"\n        color: @brand-info;",
+			"success",
+			"brand-warning",
+			"@brand-success",
+			"happy-hour",
+			"art",
+			"ref",
+			"12",
+			"proj-name",
+			"boos",
+			"ui-router",
+			"_compiled",
+			"metroDigi",
+			"8",
+			"../_compiled/",
+			"MetroDigi",
+			"maltese",
+			"MetroDigi",
+			"metroDigi",
+			"resp",
+			"p",
+			"8",
+			"4",
+			"span",
+			"4",
+			"8",
+			"6",
+			"div",
+			"</small>",
+			"{{video",
+			"!=",
+			"seconds",
+			"secs",
+			"searchTerm",
+			"9",
+			"Fn",
+			"@border-radi",
+			"@brand-success",
+			"padding",
+			"Fn",
+			"css/",
+			"fn",
+			"user.signUp(user)",
+			"friend",
+			"\n            makeMageRequest: function(path, user) {\n                user.apikey = apikey;\n                var deferred = $q.defer();\n                $http.post(path, user)\n                    .success(function(data) {\n                        return deferred.resolve(data);\n                    })\n                    .error(function(data) {\n                        return deferred.resolve(data);\n                    });\n                return deferred.promise;\n            }",
+			"makeRequest",
+			"login",
+			"4",
+			"\n    <div class=\"user\" ng-class=\"{ 'col-lg-4",
+			"7",
+			"@font-size-base",
+			"5",
+			"13",
+			"13 ",
+			"4",
+			"6",
+			"user",
+			"var user",
+			"new_user",
+			"$scope.",
+			"4",
+			"password",
+			"lastname",
+			"button",
+			"6",
+			"background-color",
+			"0 0",
+			"10",
+			"text",
+			"quote",
+			"text",
+			"name",
+			"{{",
+			"scope.",
+			"-out 1s",
+			"display",
+			"background-color",
+			"image",
+			"to S",
+			"image=\"/",
+			"“",
+			"image=\"",
+			"h3",
+			"p",
+			"finaolandingimage",
+			"        <div class=\"col-lg-6 col-md-6 col-sm-6 landingTile\">\n            <finaolandingimage image=\"/skin/frontend/social/default/images/landing-tile-dj.png\"></finaolandingimage>\n        </div>",
+			"<div class=\"tile-hover\">\n                    <img src=\"/skin/frontend/social/default/images/landing-tile-dj.png\" />\n                </div>",
+			"                <div class=\"tile-hover\">\n                    <img src=\"/skin/frontend/social/default/images/landing-tile-dj.png\" />\n                </div>",
+			"\n                <div class=\"tile-hover\">\n                    <img src=\"/skin/frontend/social/default/images/landing-tile-dj.png\" />\n                </div>",
+			"span class=\"tile-hover\"",
+			"<img",
+			"7",
+			"5",
+			"7",
+			"1",
+			"3",
+			"2",
+			"5",
+			"@grid-columns",
+			"3",
+			"9",
+			"2",
+			"5",
+			"7",
+			"5",
+			"2",
+			"5",
+			"7",
+			"5",
+			"2",
+			"5",
+			"2",
+			"5",
+			"7"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 315.0
+	},
+	"project": "weebly.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"var",
+				"server/public/bower_components/bootstrap/less/variables.less"
+			],
+			[
+				"malt",
+				"less/maltese.less"
+			],
+			[
+				"varia",
+				"server/public/bower_components/bootstrap/less/variables.less"
+			],
+			[
+				"grunt",
+				"tools/Gruntfile.js"
+			],
+			[
+				"app",
+				"server/app.js"
+			],
+			[
+				"host",
+				"/private/etc/hosts"
+			],
+			[
+				"ww",
+				"server/bin/www"
+			],
+			[
+				"www",
+				"server/bin/www"
+			],
+			[
+				"index",
+				"server/views/index.ejs"
+			],
+			[
+				"vair",
+				"server/public/bower_components/bootstrap/less/variables.less"
+			],
+			[
+				"va",
+				"js/bower_components/bootstrap/less/variables.less"
+			],
+			[
+				"gru",
+				"metrodigi/tools/Gruntfile.js"
+			],
+			[
+				"in",
+				"metrodigi/index.html"
+			],
+			[
+				"inde",
+				"metrodigi/index.html"
+			],
+			[
+				"gr",
+				"metrodigi/tools/Gruntfile.js"
+			],
+			[
+				"sign",
+				"magento/app/code/local/Finaonation/finaofrontend/less/signup.less"
+			],
+			[
+				"signup",
+				"magento/app/code/local/Finaonation/finaofrontend/less/signup.less"
+			],
+			[
+				"local",
+				"magento/app/design/frontend/social/default/layout/local.xml"
+			],
+			[
+				"local.",
+				"magento/app/design/frontend/social/default/layout/local.xml"
+			],
+			[
+				"vari",
+				"magento/app/code/local/Finaonation/finaofrontend/js/bower_components/bootstrap/less/variables.less"
+			],
+			[
+				"fiano_v",
+				"magento/app/code/local/Finaonation/finaofrontend/less/finao_variables.less"
+			],
+			[
+				"landing",
+				"magento/app/code/local/Finaonation/finaofrontend/less/landing.less"
+			],
+			[
+				"landign",
+				"magento/app/code/local/Finaonation/finaofrontend/less/landing.less"
+			],
+			[
+				"land",
+				"magento/app/code/local/Finaonation/finaofrontend/less/landing.less"
+			],
+			[
+				"finao_",
+				"magento/app/code/local/Finaonation/finaofrontend/less/finao_variables.less"
+			],
+			[
+				"finaoab",
+				"magento/app/code/local/Finao/RestApi/Controller/AbstractController.php"
+			],
+			[
+				"logincon",
+				"magento/app/code/local/Finao/RestApi/controllers/Customer/LoginController.php"
+			],
+			[
+				"finaorestapisi",
+				"magento/app/code/local/Finao/RestApi/controllers/Customer/SignupController.php"
+			],
+			[
+				"main",
+				"magento/app/code/local/Finaonation/finaofrontend/less/main.less"
+			],
+			[
+				"magentorestapiabstract",
+				"magento/app/code/local/Finao/RestApi/Controller/AbstractController.php"
+			],
+			[
+				"main.",
+				"magento/app/code/local/Finaonation/finaofrontend/less/main.less"
+			],
+			[
+				"grun",
+				"magento/app/code/local/Finaonation/finaofrontend/tools/gruntfile.js"
+			],
+			[
+				"main.css",
+				"~/Project/finao/Magento/magento/skin/frontend/social/default/css/main.css"
+			],
+			[
+				"options.xml",
+				"magento/app/design/adminhtml/default/default/layout/options.xml"
+			],
+			[
+				"socialconfig.xml",
+				"magento/app/code/local/Finaonation/Social/etc/config.xml"
+			],
+			[
+				"vag",
+				"vagrant/Vagrantfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title><%= title %></title>
+    <link href='http://fonts.googleapis.com/css?family=Tienne|Roboto:400,700italic' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="/bower_components/angular/angular.js"></script>
+    <script type="text/javascript" src="/bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+    <script type="text/javascript" src="/bower_components/angular-bootstrap/ui-bootstrap.js"></script>
+    <script type="text/javascript" src="/bower_components/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+    <script type="text/javascript" src="/_compiled/js/weebly.js"></script>
+    <script type="text/javascript" src="/_compiled/js/weebly.templates.js"></script>
+    <link rel="stylesheet" type="text/css" href="/_compiled/css/vendor.css">
+    <link rel="stylesheet" type="text/css" href="/_compiled/css/main.css">
+</head>
+<body ng-app="Weebly" ng-controller="WeeblyMainCtrl">
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <h1>Weebly Demo</h1>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div id="WeeblyMain" class="container" ui-view="Weebly-main">
+
+    </div>
+</body>
+</html>
